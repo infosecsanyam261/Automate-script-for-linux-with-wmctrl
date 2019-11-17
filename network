@@ -1,0 +1,19 @@
+Scan Types :
+
+Passive Scan:Smelling 
+* listen to the network traffic
+	* TCPdump
+	* Wireshark
+
+
+Active Scan: Tasting
+Sending packages
+
+Nmap
+hping
+scapy
+ping,tracert etc
+
+through hping send all protocol like tcp,udp,icmp etc
+
+
